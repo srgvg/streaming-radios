@@ -116,7 +116,7 @@
 			</extension>
 		</track>
 		<track>
-			<location>https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.mp3</location>
+			<location>https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac</location>
 			<title>Q | Qmusic</title>
 			<image>file:///home/serge/.cache/vlc/art/arturl/767eeb4d88626e3af138c2044a658941/art</image>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
